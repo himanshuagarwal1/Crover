@@ -5,7 +5,7 @@ To run this Project please do as following:-
     1) please install following python libraries:-
         a) matplotlib
         b) sqlite3
-    2) extract and open folder name crover
+    2) extract and open folder name crover_assesment
     3) After the above step open the terminal and type python manage.py runserver
     4) go to the generated url in the terminal
     5) In the generated Url you will see the 6 generated graphs.
